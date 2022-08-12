@@ -3,3 +3,4 @@ This repository contains problems from [LeetCode](https://leetcode.com) that I'v
 Here the list of solved problems:
 * [contains duplicate](https://leetcode.com/problems/contains-duplicate)
 * [valid anagram](https://leetcode.com/problems/valid-anagram)
+* [two sum](https://leetcode.com/problems/two-sum)
